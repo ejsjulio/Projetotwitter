@@ -31,3 +31,19 @@ x - excute - executa
 Significado de cada grupo de caracteres
 
 rwx-rwx-rwx = vc-grupo-outros
+
+
+Aula 08/10/18
+
+git config --global user.email emerson.silva374@etec.sp.gov.br
+git config --global user.name "ejsjulio"
+
+git clone  (mais end da pasta) - clonar pasta
+sout (atalho para system) netbeans
+shift + F6 - Executa arquivo
+
+
+salvar=
+git add .
+git commit -m "descrição do que você modificou"
+git push
